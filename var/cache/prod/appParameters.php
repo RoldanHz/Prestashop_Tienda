@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'tiendaelpinal',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'ckKRwuhTRVRSxKoGSmjWu8H121zKV1O7SCBKgtzBtW1qAzDajacsWo86AtarQOip',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2023-11-02',
+    'locale' => 'es-ES',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'njw1vgP21XQ7ozU0pstqXWmmSeJ3M3pmtE6ikBvAPBfJYdFbbWLajr4Eb7qG1uu3',
+    'cookie_iv' => 'ch29LLtIxpwxwnSKWrst95eiVnTGJUuD',
+    'new_cookie_key' => 'def0000019764fd684188b713d5e6e9d7f611b558f00ef4367fd8cfd32ca61b28afcf1b494ed9181e263be2d62f44d5461cce94bcf8f0103ea0de7aa7555b53c21c9a6dd',
+  ),
+);
